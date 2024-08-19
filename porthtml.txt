@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gayathri Kethineni - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Gayathri Kethineni</h1>
+            <p>Web Developer | Designer | Creator</p>
+        </div>
+    </header>
+   
+    <nav>
+        <ul>
+            <li><a href="#home">HOME</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+   
+    <section id="home">
+        <h2>I'm Gayathri, a student of Vignan's University. I develop web pages to meet various requirements.</h2>
+    </section>
+   
+    <section id="about-section" class="about-section">
+        <h1>About Me</h1>
+        <h3>Hi Everyone, I am Gayathri Kethineni from Kavur, India.
+            I am currently a student of Vignan's University pursuing B.tech 3rd year of department CSE.
+            </h3>
+        <h3>Apart from coding, some other activities that I love to do include:<br>
+            * Playing Games<br>
+            * Hand crafts<br>
+            * Travelling<br>
+            * Reading Books<br>
+            * Listening to Music<br>
+            </h3>
+    </section>
+   
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Digital Clock</h3>
+            <p>This project displays the time in a digital format. It utilizes HTML elements, CSS for styling, and JavaScript for Date Object manipulation, DOM interactions, and time formatting.</p>
+            <a href="https://1drv.ms/u/c/02871a38048d3824/EeJPEn9Bs9xJpFouGWz2NyMBytOtSCFMeCJyRHyyDGSrZA?e=MmMShJ" class="btn">View Project</a>
+        </div>
+    </section>
+   
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Interested in working together? Let's talk!</p>
+        <div class="contact-method">
+            <h3>Mail Now</h3>
+            <img src="mail.jpg" alt="Mail Icon">
+            <div class="contact-details">
+                <p>Email: 221fa04341@gmail.com</p>
+                <button>Email</button>
+            </div>
+    </section>
+       
+
+    <footer>
+        <p>&copy; 2024 Gayathri Kethineni. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
+
